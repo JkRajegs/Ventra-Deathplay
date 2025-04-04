@@ -1,2 +1,1 @@
-# Ventra-Deathplay
-Anlık güncelleme
+deathplay:main
