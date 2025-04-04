@@ -1,4 +1,2 @@
 # Ventra-Deathplay
-anlık güncelleme
-
-aaa
+Anlık güncelleme
